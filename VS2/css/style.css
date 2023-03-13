@@ -291,7 +291,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(../img/Star-Warss.jpg);
+	background-image: url(../img/Star-Warss.jpg) ;
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
@@ -430,7 +430,7 @@ p {
 	font-size: 2rem;
 }
 #about .col-left .about-img {
-	height: 100%;
+	height: 110%;
 	width: 100%;
 	position: relative;
 	border: 10px solid white;
