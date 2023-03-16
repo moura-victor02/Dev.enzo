@@ -656,6 +656,7 @@ p {
 		width: 30%;
 		margin: 0;
 		flex-direction: row;
+	    cursor: pointer;
 	}
 	#contact .contact-item .icon {
 		height: 100px;

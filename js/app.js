@@ -23,3 +23,8 @@ menu_item.forEach((item) => {
 		mobile_menu.classList.toggle('active');
 	});
 });
+
+var urlprojeto1 = document.querySelector(".project-img");
+urlprojeto1.addEventListener("click", function() {
+    window.open("https://moura-victor02.github.io/nav-bar/", "_blank");
+});
