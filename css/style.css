@@ -489,8 +489,10 @@ p {
 	font-size: 2.5rem;
 	font-weight: 500;
 	margin-bottom: 5px;
+	color:black;
+	
 }
-/*End contact Section */
+/*Fim contact Section */
 
 /* Footer */
 #footer {
@@ -587,7 +589,7 @@ p {
 		flex-basis: 45%;
 		margin: 2.5%;
 	}
-	/* End Services Section */
+	/* Fim Services Section */
 
 	/* Project */
 	#projects .project-item {
@@ -608,7 +610,7 @@ p {
 	#projects .all-projects .project-img {
 		height: 100%;
 	}
-	/* End Project */
+	/* Fim Project */
 
 	/* About */
 	#about .about {
@@ -633,7 +635,7 @@ p {
 	#about .col-right h1 {
 		text-align: left;
 	}
-	/* End About */
+	/* Fim About */
 
 	/* contact  */
 	#contact .contact {
@@ -667,7 +669,7 @@ p {
 		text-align: left;
 		padding-left: 20px;
 	}
-	/* End contact  */
+	/* Fim contact  */
 }
 /* End Media Query For Tablet */
 
@@ -693,7 +695,7 @@ p {
 	#header .nav-list ul a:after {
 		display: none;
 	}
-	/* End header */
+	/* Fim header */
 
 	#services .service-bottom .service-item {
 		flex-basis: 22%;
