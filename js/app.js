@@ -42,3 +42,10 @@ var urlprojeto1 = document.querySelector(".contact-item3");
 urlprojeto1.addEventListener("click", function() {
     window.open("https://www.linkedin.com/in/enzo-victor-718339243", "_blank");
 });
+
+
+var urlprojeto1 = document.querySelector(".contact-item2");
+urlprojeto1.addEventListener("click", function() {
+    window.open("https://github.com/moura-victor02", "_blank");
+});
+
