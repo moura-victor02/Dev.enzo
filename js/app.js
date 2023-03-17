@@ -44,8 +44,4 @@ urlprojeto1.addEventListener("click", function() {
 });
 
 
-var urlprojeto1 = document.querySelector(".contact-item2");
-urlprojeto1.addEventListener("click", function() {
-    window.open("https://github.com/moura-victor02", "_blank");
-});
 
