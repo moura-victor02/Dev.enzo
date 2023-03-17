@@ -656,8 +656,9 @@ p {
 	#contact .contact-item {
 		width: 30%;
 		margin: 0;
-		flex-direction: row;
-	    cursor: pointer;
+		flex-direction: column;
+		cursor: pointer;
+		text-align: center;
 	}
 	#contact .contact-item .icon {
 		height: 100px;
@@ -669,7 +670,9 @@ p {
 	#contact .contact-item .contact-info {
 		width: 100%;
 		text-align: left;
-		padding-left: 20px;
+		padding-left: none;
+		text-align: center;
+		
 	}
 	/* Fim contact  */
 }

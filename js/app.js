@@ -32,5 +32,13 @@ urlprojeto1.addEventListener("click", function() {
 
 var urlprojeto1 = document.querySelector(".contact-item");
 urlprojeto1.addEventListener("click", function() {
-    window.open("https://moura-victor02.github.io/nav-bar/", "_blank");
+    window.open("mailto:enzomoru3@gmail.com?body=Ol%C3%A1%20Enzo%2C%20tudo%20bem%3F", "_blank");
+});
+var urlprojeto1 = document.querySelector(".contact-item2");
+urlprojeto1.addEventListener("click", function() {
+    window.open("https://github.com/moura-victor02", "_blank");
+});
+var urlprojeto1 = document.querySelector(".contact-item3");
+urlprojeto1.addEventListener("click", function() {
+    window.open("https://www.linkedin.com/in/enzo-victor-718339243", "_blank");
 });
