@@ -371,14 +371,17 @@ p {
 #projects .project-info h1 {
 	font-size: 4rem;
 	font-weight: 500;
+	color: crimson;
 }
 #projects .project-info h2 {
-	font-size: 1.8rem;
+	font-size: 2rem;
 	font-weight: 500;
 	margin-top: 10px;
+	color: black;
 }
 #projects .project-info p {
 	color: white;
+	font-size: 1.5rem;
 }
 #projects .project-img {
 	flex-basis: 50%;
