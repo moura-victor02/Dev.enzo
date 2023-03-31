@@ -25,7 +25,7 @@ menu_item.forEach((item) => {
 	});
 });
 
-var urlprojeto1 = document.querySelector(".project-img");
+var urlprojeto1 = document.querySelector(".proj1");
 urlprojeto1.addEventListener("click", function() {
     window.open("https://moura-victor02.github.io/nav-bar/", "_blank");
 });
@@ -41,6 +41,11 @@ urlprojeto1.addEventListener("click", function() {
 var urlprojeto1 = document.querySelector(".contact-item3");
 urlprojeto1.addEventListener("click", function() {
     window.open("https://www.linkedin.com/in/enzo-victor-718339243", "_blank");
+});
+
+var urlprojeto1 = document.querySelector(".proj2");
+urlprojeto1.addEventListener("click", function() {
+    window.open("https://moura-victor02.github.io/links-page/", "_blank");
 });
 
 
