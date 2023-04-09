@@ -328,6 +328,7 @@ p {
 	color: red;
 	font-size: 2.5rem;
 
+
 }
 /* FIM Services Section */
 
@@ -716,4 +717,18 @@ p {
 		flex-basis: 22%;
 		margin: 1.5%;
 	}
+}
+
+::-webkit-scrollbar {
+	width: 15px;
+}
+
+::-webkit-scrollbar-track {
+	background:#ff0043;
+	border-radius: 30px;
+}
+
+::-webkit-scrollbar-thumb {
+	background: rgb(48, 47, 47);
+	border-radius: 30px;
 }
